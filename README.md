@@ -2,6 +2,6 @@
 
 Group Members:
 
-Ege Onur Gulec (egeonur.guelec@uzh.ch)__
-Milena Milosavljevi (milena.milosavljevic@uzh.ch)__
-Dogan Parlak (dogan.parlak@uzh.ch)
+Ege Onur Gulec (egeonur.guelec@uzh.ch). 
+Milena Milosavljevi (milena.milosavljevic@uzh.ch)
+Dogan Parlak (dogan.parlak@uzh.ch). 
