@@ -1,0 +1,2 @@
+read varname
+echo varname

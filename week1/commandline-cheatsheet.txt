@@ -1,0 +1,12 @@
+mkdir temp/
+cd temp/
+echo "hello world" >> hello.txt
+ls ..
+ps -A
+kill 666
+echo $PATH >> path.txt
+find / -iname 'hello.txt*' 2>/dev/null
+ls -R | grep '\.png$'
+whereis echo
+man ps | grep "Select all processes"
+history -1 -21 >> commands.txt
