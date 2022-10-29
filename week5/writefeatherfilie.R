@@ -1,0 +1,6 @@
+library(feather)
+
+researchPath <- Sys.getenv("RESEARCH_PATH")
+featherPath <- paste0(researchPath, "\\week5\\test.feather")
+df <- data.frame(replicate(10,sample(0:1,1000,rep=TRUE)))
+write_feather(df, featherPath)
