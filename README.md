@@ -1,6 +1,8 @@
 # DigitalToolsForFinance
 
-Group repository for the elective quantitative finance course from the University of Zurich, taught by Igor Pozdeev (Fall Semester 2022). Official lecture notes are hosted on the digital-tools-for-finance repository.
+Group repository for the quantitative finance course from the University of Zurich, taught by Igor Pozdeev (Fall Semester 2022). Official lecture notes are hosted on the digital-tools-for-finance repository.
+
+December 19, 2022
 
 - Group Members:
 
@@ -10,7 +12,7 @@ Dogan Parlak (dogan.parlak@uzh.ch) <br />
 
 - Research Topic:
 
-  Do commodity prices grow faster than global inflation? <br />
+ Do commodity prices grow faster than global inflation? <br />
 
 - Short Description: <br />
 
