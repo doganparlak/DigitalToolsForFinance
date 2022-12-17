@@ -1,5 +1,7 @@
 # DigitalToolsForFinance
 
+Group repository for the elective quantitative finance course from the University of Zurich, taught by Igor Pozdeev (Fall Semester 2022). Official lecture notes are hosted on the digital-tools-for-finance repository.
+
 - Group Members:
 
 Ege Onur Gulec (egeonur.guelec@uzh.ch) <br />
