@@ -8,7 +8,7 @@ def get_fx_data(start_dt, end_dt):
 
   data = pd.read_feather(filename)
 
-  date_column = 'Date'
+  date_column = 'Month'
   manipulate = (data[date_column] >= start_dt) & (data[date_column] <= end_dt)
   data = data.loc[manipulate]
 
