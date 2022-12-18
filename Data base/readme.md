@@ -1,4 +1,4 @@
-Following information is necessary to utilize the database
+- Necessary Information for Database
 
 You need to have a running mysql server.
 
