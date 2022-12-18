@@ -4,7 +4,7 @@ Group repository for the quantitative finance course from the University of Zuri
 
 - Structure of the main branch:
 
-> 1. Database - Database with relevant methods.
+> 1. Database - Database with update methods.
 
 > 2. IT-Project Paper - Written paper with latex code.
 
