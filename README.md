@@ -12,6 +12,7 @@ Group repository for the quantitative finance course from the University of Zuri
 
 4. Notebook -  Datasets (inflation data and commodity data) that are utilized in database, plots, Jupyter Notebook.
 
+5. Readme - A readme file for brief description of the project.
 December 19, 2022
 
 - Group Members:
