@@ -9,13 +9,13 @@ import requests
 
 from connect import DATAPATH
 
-quandl.ApiConfig.api_key = os.environ.get("QUANDL_API_KEY")
+def put_data():
+    """ Store the data into the database"""
 
-def put_fx_data():
-    """ fx and dates should be entered """
-    
-  data = quandl.get("fx", start_date="", end_date="")
+    data ="upstream test"
 
-  filename = DATAPATH + "fx.ftr"
+    filename = DATAPATH + "commodity_prices_august_2021.csv"
 
-  data.to_feather(filename)
+    data.to_csv(filename)
+
+put_data()
