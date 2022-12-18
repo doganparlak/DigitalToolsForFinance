@@ -2,6 +2,16 @@
 
 Group repository for the quantitative finance course from the University of Zurich, taught by Igor Pozdeev (Fall Semester 2022). Official lecture notes are hosted on the digital-tools-for-finance repository.
 
+- Structure of the main branch
+ 
+1. Database - Database with relevant methods.
+
+2. IT-Project Paper - Written paper with latex code.
+
+3. Beamer Presentation - Presentation with latex code.
+
+4. Notebook -  Datasets (inflation data and commodity data) that are utilized in database, plots, Jupyter Notebook.
+
 December 19, 2022
 
 - Group Members:
@@ -21,7 +31,7 @@ Dogan Parlak (dogan.parlak@uzh.ch) <br />
 
 # Final assignment
 
-According to the requirements of the final assignment, our project: 
+ - According to the requirements of the final assignment, our project: 
 
 1. Is hosted as a single repository on github.
 
@@ -34,3 +44,5 @@ According to the requirements of the final assignment, our project:
 5-6-7. Features a paper and beamer presentation written in LaTex, with figures following the discussed visualization standards.
 
 8. Has an interactive R shiny app, which presents the price chart of a selected stock.
+
+
